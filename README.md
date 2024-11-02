@@ -27,3 +27,13 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### try this acc to check web3 socials 
+```bash
+0x7241DDDec3A6aF367882eAF9651b87E1C7549Dff
+```
+
+```bash
+0x2247d5d238d0f9d37184d8332aE0289d1aD9991b
+``` 
+
